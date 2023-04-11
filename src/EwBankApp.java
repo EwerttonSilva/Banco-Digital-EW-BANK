@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalcularImpostoDeRenda {
+public class EwBankApp {
     public static void main(String[] args) {
         cadastroDeClientes cadastrando = new cadastroDeClientes();
         Scanner input = new Scanner(System.in); // Ler o que o cliente digitar
