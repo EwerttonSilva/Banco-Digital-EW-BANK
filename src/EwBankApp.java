@@ -22,6 +22,7 @@ public class EwBankApp {
         if (cpfValido) System.out.println("Olá Bem Vindo de Volta! " + nome);
         else {
             cadastrando.clienteNovo(cpfDoCliente);
+
         }
     }
 }
