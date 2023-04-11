@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class cadastroDeClientes {
-    public void  clienteNovo(String cpf){
+    public void clienteNovo(String cpf) {
         Scanner input = new Scanner(System.in);
         System.out.println("Verifiquei que o senhor não tem conta corrente no nosso Banco");
         System.out.println("Gostaria de fazer parte da nossa historia?");
